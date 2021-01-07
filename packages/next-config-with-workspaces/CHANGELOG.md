@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.2.10 (2021-01-07)
+
+**Note:** Version bump only for package @atlantis-lab/next-config-with-workspaces
+
+
+
+
+
 ## [0.2.9](https://github.com/Atlantis-Lab/nextjs/compare/@atlantis-lab/next-config-with-workspaces@0.2.8...@atlantis-lab/next-config-with-workspaces@0.2.9) (2020-12-07)
 
 **Note:** Version bump only for package @atlantis-lab/next-config-with-workspaces

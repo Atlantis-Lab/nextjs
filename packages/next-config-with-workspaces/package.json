@@ -1,7 +1,7 @@
 {
   "name": "@atlantis-lab/next-config-with-workspaces",
   "repository": "git@github.com:Atlantis-Lab/nextjs.git",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
